@@ -37,12 +37,4 @@ Sales Performance Over Time: Displays the trend of sales over a selected time pe
 
 Sales by Product Category: Provides a breakdown of sales by different product categories, enabling users to compare their performance and identify top-selling categories.
 
-Sales by Region: Visualizes sales across different regions, enabling users to analyze regional performance and identify areas of potential growth or concern.
-
-Top Products by Sales: Presents a list of top-selling products based on sales amount, helping users focus on the most profitable items.
-
-Sales Distribution by Price Range: Displays the distribution of sales based on price ranges, providing insights into customer preferences and price sensitivity.
-
-Sales Contribution by Customer Segment: Shows the contribution of different customer segments to overall sales, helping identify key customer groups and their impact on revenue.
-
 Monthly Sales Trend: Illustrates the monthly sales trend, allowing users to observe recurring patterns or trends throughout the year.
